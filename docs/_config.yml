@@ -22,7 +22,7 @@ title: NCVirtual Coding Club Course
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  Additional learning material, assignments, and projects for teachers to be used in the classroom, utilizing www.freecodecamp.org/.
-baseurl: "/fcc-course" # the subpath of your site, e.g. /blog
+baseurl: "/course" # the subpath of your site, e.g. /blog
 url: "https://ncvirtual-coding-club.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: NCVirtual-Coding-Club
 
