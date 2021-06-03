@@ -1,12 +1,12 @@
 ---
 layout: default
-title: @@@
+title: Inherit CSS Variables
 parent: Basic CSS
 grand_parent: Responsive Web Design
 has_children: false
 nav_order: 42
 ---
-# @@@
+# Inherit CSS Variables
 ## Summary
 - CSS variables are inherited.
     - Can only be used inside the selector in which it is created in.
