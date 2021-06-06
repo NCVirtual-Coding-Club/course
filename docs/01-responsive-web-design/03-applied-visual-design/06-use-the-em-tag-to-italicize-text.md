@@ -43,11 +43,11 @@ nav_order: 6
   <div class="cardContent">
     <div class="cardText">
       <h4>Google</h4>
-      <p><em>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em></p>
+      <p><em>...they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em></p>
     </div>
     <div class="cardLinks">
-      <a href="https://en.wikipedia.org/wiki/Larry_Page" target="_blank" class="links">Larry Page</a><br><br>
-      <a href="https://en.wikipedia.org/wiki/Sergey_Brin" target="_blank" class="links">Sergey Brin</a>
+      <a href="https://en.wikipedia.org/..." target="_blank" class="links">Larry Page</a><br><br>
+      <a href="https://en.wikipedia.org/..." target="_blank" class="links">Sergey Brin</a>
     </div>
   </div>
 </div>
