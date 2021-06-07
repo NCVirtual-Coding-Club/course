@@ -36,11 +36,11 @@ nav_order: 22
   </form>
   <h2>Inspirational Quotes</h2>
   <blockquote>
-    <p>&ldquo;There's no Theory of Evolution, just a list of creatures I've allowed to live.&rdquo;<br>
+    <p>&ldquo;There's no Theory of Evolution, just a list of creatures...&rdquo;<br>
     - Chuck Norris</p>
   </blockquote>
   <blockquote>
-    <p>&ldquo;Wise men say forgiveness is divine, but never pay full price for late pizza.&rdquo;<br>
+    <p>&ldquo;Wise men say forgiveness is divine, but never pay full...&rdquo;<br>
     - TMNT</p>
   </blockquote>
   <footer>&copy; 2018 Camper Cat</footer>

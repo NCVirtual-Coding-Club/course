@@ -51,7 +51,7 @@ overflow: hidden;
       <!-- Stacked bar chart of weekly training -->
       <p>[Stacked bar chart]</p>
       <br />
-      <figcaption>Breakdown per week of time to spend training in stealth, combat, and weapons.</figcaption>
+      <figcaption>Breakdown per week of time to spend training in...</figcaption>
     </figure>
     <table class="sr-only">
       <caption>Hours of Weekly Training in Stealth, Combat, and Weapons</caption>

@@ -20,10 +20,10 @@ nav_order: 20
   <article>
 
 
-    <h2><a id="first" href="#" accesskey="g">The Garfield Files: Lasagna as Training Fuel?</a></h2>
+    <h2><a id="first" href="#" accesskey="g">The Garfield Files: Lasagna...</a></h2>
 
 
-    <p>The internet is littered with varying opinions on nutritional paradigms, from catnip paleo to hairball cleanses. But let's turn our attention to an often overlooked fitness fuel, and examine the protein-carb-NOM trifecta that is lasagna...</p>
+    <p>The internet is littered...</p>
   </article>
   <article>
 
@@ -31,7 +31,7 @@ nav_order: 20
     <h2><a id="second" href="#" accesskey="c">Is Chuck Norris a Cat Person?</a></h2>
 
 
-    <p>Chuck Norris is widely regarded as the premier martial artist on the planet, and it's a complete coincidence anyone who disagrees with this fact mysteriously disappears soon after. But the real question is, is he a cat person?...</p>
+    <p>Chuck Norris is widely regarded...</p>
   </article>
   <footer>&copy; 2018 Camper Cat</footer>
 </body>

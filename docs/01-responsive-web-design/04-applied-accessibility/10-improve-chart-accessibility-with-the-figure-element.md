@@ -31,7 +31,7 @@ nav_order: 10
       <figure>
         <!-- Stacked bar chart will go here -->
         <br>
-        <figcaption>Breakdown per week of time to spend training in stealth, combat, and weapons.</figcaption>
+        <figcaption>Breakdown per week of time to spend training...</figcaption>
       </figure>
       <!-- Only change code above this line -->
 
