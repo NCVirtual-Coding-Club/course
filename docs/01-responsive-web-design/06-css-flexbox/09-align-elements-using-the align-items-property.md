@@ -8,7 +8,7 @@ nav_order: 9
 ---
 # Align Elements Using the align-items Property
 ## Summary
-<img src="https://www.w3.org/TR/css-flexbox-1/images/flex-direction-terms.svg"></img>
+<img src="https://www.w3.org/TR/css-flexbox-1/images/flex-direction-terms.svg">
 - CSS offers the `align-items` property to align flex items along the cross axis.
     - `flex-start`: aligns items to the start of the flex container. For rows, this aligns items to the top of the container. For columns, this aligns items to the left of the container.
     - `flex-end`: aligns items to the end of the flex container. For rows, this aligns items to the bottom of the container. For columns, this aligns items to the right of the container.

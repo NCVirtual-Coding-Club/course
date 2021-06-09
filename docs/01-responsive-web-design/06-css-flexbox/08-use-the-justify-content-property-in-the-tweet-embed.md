@@ -71,7 +71,7 @@ nav_order: 8
   }
 </style>
 <header>
-  <img src="https://freecodecamp.s3.amazonaws.com/quincy-twitter-photo.jpg" alt="Quincy Larson's profile picture" class="profile-thumbnail">
+  <img src="https..." alt="Quincy Larson's profile picture" class="profile-thumbnail">
   <div class="profile-name">
     <h3>Quincy Larson</h3>
     <h4>@ossia</h4>
@@ -81,7 +81,7 @@ nav_order: 8
   </div>
 </header>
 <div id="inner">
-  <p>I meet so many people who are in search of that one trick that will help them work smart. Even if you work smart, you still have to work hard.</p>
+  <p>I meet so many people who are in search...</p>
   <span class="date">1:32 PM - 12 Jan 2018</span>
   <hr>
 </div>

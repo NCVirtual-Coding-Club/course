@@ -9,7 +9,7 @@ nav_order: 7
 # Align Elements Using the justify-content Property
 ## Summary
 - The `justify-content` property allows custom alignments and spacing in CSS along the main axis.
-<img src="https://www.w3.org/TR/css-flexbox-1/images/flex-direction-terms.svg"></img>
+<img src="https://www.w3.org/TR/css-flexbox-1/images/flex-direction-terms.svg">
     - `justify-content`: Aligned all flex items to the nter of the flex container.
     - `flex-start`: aligns items to the start of the flex container. For a row, this pushes the items to the left of the container. For a column, this pushes the items to the top of the container. This is the default alignment if no justify-content is specified.
     - `flex-end`: aligns items to the end of the flex container. For a row, this pushes the items to the right of the container. For a column, this pushes the items to the bottom of the container.
