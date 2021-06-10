@@ -1,12 +1,12 @@
 ---
 layout: default
-title: $$$
+title: Use CSS Grid units to Change the Size of Columns and Rows
 parent: CSS Grid
 grand_parent: Responsive Web Design
 has_children: false
 nav_order: 4
 ---
-# $$$
+# Use CSS Grid units to Change the Size of Columns and Rows
 ## Summary
 - Absolute and relative units can be used to define the size of rows and columns.
     - `fr`: sets the column or row to a fraction of the available space,
