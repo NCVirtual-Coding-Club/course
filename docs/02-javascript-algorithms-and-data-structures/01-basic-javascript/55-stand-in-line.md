@@ -1,12 +1,12 @@
 ---
 layout: default
-title: $$$
+title: Stand in Line
 parent: Basic JavaScript
 grand_parent: JavaScript Algorithms and Data Structures
 has_children: false
-nav_order: ##
+nav_order: 55
 ---
-# $$$
+# Stand in Line
 ## Summary
 - A queue is an abstract Data Structure where items are kept in order.
 - New items are added to the back of the queue, and old items are taken off.
