@@ -1,12 +1,12 @@
 ---
 layout: default
-title: $$$
+title: Use Destructuring Assignment to Pass an Object as a Function's Parameters
 parent: ES6
 grand_parent: JavaScript Algorithms and Data Structures
 has_children: false
 nav_order: 16
 ---
-# $$$
+# Use Destructuring Assignment to Pass an Object as a Function's Parameters
 ## Summary
 - In some cases, the object in a function argument can destructure itself.
 
