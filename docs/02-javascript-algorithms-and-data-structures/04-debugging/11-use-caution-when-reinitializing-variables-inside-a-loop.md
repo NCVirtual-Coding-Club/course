@@ -1,0 +1,34 @@
+---
+layout: default
+title: Use Caution When Reinitializing Variables Inside a Loop
+parent: Debugging
+grand_parent: JavaScript Algorithms and Data Structures
+has_children: false
+nav_order: 11
+---
+# Use Caution When Reinitializing Variables Inside a Loop
+
+## Final Code
+
+{% highlight JavaScript %}
+function zeroArray(m, n) {
+  // Creates a 2-D array with m rows and n columns of zeroes
+  let newArray = [];
+  let row = [];
+  for (let i = 0; i < m; i++) {
+    // Adds the m-th row into newArray
+    let row = [];
+    for (let j = 0; j < n; j++) {
+      // Pushes n zeroes into the current row to create the columns
+      
+      row.push(0);
+    }
+    // Pushes the current row, which now has n zeroes in it, to the array
+    newArray.push(row);
+  }
+  return newArray;
+}
+
+let matrix = zeroArray(3, 2);
+console.log(matrix);
+{% endhighlight %}
